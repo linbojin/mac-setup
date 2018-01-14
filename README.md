@@ -63,4 +63,5 @@ Here is a quick list of some apps I use, and that you might find useful as well:
 - [Spectacle](https://www.spectacleapp.com/): Move and resize windows with ease.
 - [MWeb](http://www.mweb.im/): Markdown writing, note taking and static blog generator App
 - [Dropbox](https://www.dropbox.com/): File syncing to the cloud. I put all my documents in Dropbox. It syncs them to all my devices (laptop, mobile, tablet), and serves as a backup as well! **(Free for 2GB)**
+- [mpv](https://mpv.io/): `brew cask install mpv` 
 
