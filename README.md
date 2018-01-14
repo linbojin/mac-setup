@@ -24,6 +24,8 @@ In the tab **Profiles**, create a new one with the "+" icon, and rename it to yo
 
 When done, hit the red "X" in the upper left (saving is automatic in OS X preference panes). Close the window and open a new one to see the size change.
 
+## Oh My Zsh
+https://github.com/robbyrussell/oh-my-zsh
 
 ## Homebrew
 
